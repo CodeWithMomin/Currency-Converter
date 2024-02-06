@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1>Currency Converter </h1>
-<p>This is a currency converterApp using html, css, javascript ,API . To use this App click on me https://codewithmomin.github.io/Currency-Converter/</p>
+<p>This is a currency converterApp using html, css, javascript ,API . To use this App click on me http://codewithmomin.github.io/Currency-Converter/</p>
 
 <h4> <span> · </span> <a href="https://github.com/CodeWithMOmin/Currency-Converter/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/CodeWithMOmin/Currency-Converter/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/CodeWithMOmin/Currency-Converter/issues"> Request Feature </a> </h4>
 
