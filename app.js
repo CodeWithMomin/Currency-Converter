@@ -58,6 +58,6 @@ btn.addEventListener("click", (evt)=>{
     evt.preventDefault();    // the preventDefault will change the default setting  of button i.e reload the page
   updateExchangeRate();
 })
-window.document.addEventListener("load",()=>{
+window.addEventListener("load",()=>{
     updateExchangeRate();
     })
